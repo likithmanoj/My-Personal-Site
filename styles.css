@@ -1,0 +1,53 @@
+body {
+  margin: 20 10 10 0;
+}
+p {
+  height: 50px;
+  font-family: cursive;
+}
+.text {
+  width: 100px;
+  font-family: "Caderville Cursive", cursive;
+
+  height: 100px;
+  color: #dbe6fd;
+}
+.topdiv {
+  font-size: larger;
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  font-family: cursive;
+
+  padding-top: 100px;
+
+  margin-top: 0px;
+}
+.textalign {
+  color: black;
+  font-size: xx-large;
+  font-family: cursive;
+  text-align: center;
+}
+.MernStackImg {
+  height: 400px;
+}
+
+.circlesImage {
+  height: 200px;
+  display: inline-block;
+}
+.androidImg {
+  height: 400px;
+}
+.contact-me {
+  text-align: center;
+  color: black;
+  font-family: cursive;
+}
+.bottom-container {
+  font-size: xx-large;
+  text-align: center;
+  color: black;
+  font-family: cursive;
+}
